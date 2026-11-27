@@ -11,6 +11,11 @@ h2 {
     color: blueviolet;
 }
 
+h3 {
+    color: red;
+    text-align: center;
+}
+
 p {
     font-family: "Times New Roman", Times, serif;
 }
